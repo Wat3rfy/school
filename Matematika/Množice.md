@@ -35,9 +35,9 @@ $$\mathbb{N} = \{  1, 2, 3, 4,... \};\; m(\mathbb{N}) = \infty \; (Števna\; nes
  $$\mathbb{N}_0 = \mathbb{N} \cup \{  0 \}$$
 Peanovi aksiomi
 - Vsako naravno število ima svojega naslednika
-- Število 0 je naravno število, ki ni naslednik nobenega $\mathbb{N}$; 0 je najmanjše naravno število
+- Število 1 je naravno število, ki ni naslednik nobenega $\mathbb{N}$; 1 je najmanjše naravno število
 - Če sta dva naslednika dveh naravnih števil enaka sta originalni naravni števili enaki.
-- Če množica vsebuje 0 in naslednika vsakega števila vsebuje vsa naravna števila, kar pomeni, da če neka trditev/enačba velja za 0 in naslednika vsakega števila velja za vsa naravna števila ;-; načelo je znano kot matematična indukcija, ker se lahko uporabi za matematične dokaze za vsa števila brez potrebe po neskončnih dokazih 
+- Če množica vsebuje 1 in naslednika vsakega števila vsebuje vsa naravna števila, kar pomeni, da če neka trditev/enačba velja za 1 in naslednika vsakega števila velja za vsa naravna števila ;-; načelo je znano kot matematična indukcija, ker se lahko uporabi za matematične dokaze za vsa števila brez potrebe po neskončnih dokazih 
 
 ##### Računske operacije v naravnih številih oz. notranje operacije
 

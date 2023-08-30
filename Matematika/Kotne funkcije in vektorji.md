@@ -38,10 +38,47 @@ $$\cos^{-1}(\alpha) = \arccos(\alpha)$$
 $$\tan^{-1}(\alpha) = \arctan(\alpha)$$
 
 ## Računanje s kotnimi funkcijami
-
+$$ $$
 $$\tan = \frac{1}{\cot}$$
 $$\sin^{2}+ \cos^{2}=1$$
 $$\tan = \frac{\sin}{\cos}$$
 $$\cot = \frac{\cos}{\sin}$$
 $$1 + \tan^{2} = \cos^{-2}$$
-$$1 + \cot^{2} = \tan^{2}$$
+$$1 + \cot^{2} = \sin^{-2}$$
+$$ $$
+$$\sin(\alpha) = \cos(90^{\circ} - \alpha)$$
+$$\cos(\alpha) = \sin(90^{\circ} - \alpha)$$
+$$\tan(\alpha) = \cot(90^{\circ} - \alpha)$$
+$$\cot(\alpha) = \tan(90^{\circ} - \alpha)$$
+$$ $$
+$$\sin(x) = \sin(x)$$
+$$\sin(\pi - x) = \sin(x)$$
+$$\sin(\pi + x) = -\sin(x)$$
+$$\sin(2\pi + x) = -\sin(x)$$
+$$ $$
+$$\cos(x) = \cos(x)$$
+$$\cos(\pi - x) = -\cos(x)$$
+$$\cos(\pi + x) = -\cos(x)$$
+$$\cos(2\pi + x) = \cos(x)$$
+$$ $$
+$$\tan(x) = \tan(x)$$
+$$\tan(\pi - x) = \tan(-x)$$
+$$\tan(\pi + x) = \tan(x)$$
+$$\tan(2\pi - x) = \tan(-x)$$
+
+
+
+## 2. Vektor
+
+... je usmerjene daljica, ki ima določeno smer, velikost in vzporednost
+
+Vektor in nasprotni vektor.
+
+![[0039.png|90]]
+
+Ničelni vektor je vektor z dolžino 0 in nima smeri. $$\vec{0}$$
+Enotski vektor je vektor dolžine ene enote.$$\vec{e}$$
+\
+Vektorja sta enaka, ko imata enako dolžino, smer in sta vzporedna.
+
+[[Operacije#Operacije med vektorji|Operacije med vektorji]]

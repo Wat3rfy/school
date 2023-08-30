@@ -173,7 +173,7 @@ $$\left(\frac{f}{g}\right)(x)= \frac{f(x)}{g(x)} $$
 
 $$(f \circ g)(x) = f(g(x))$$
 
-Rezultat kompozituma imenujemo tudi sestavljena funckija.
+Rezultat kompozituma imenujemo tudi sestavljena funkcija.
 
 V množici funkcij obstaja funkcija - <span style="color:#87f7ae">identična funkcija - $i(x)$</span>, ki je nevtralni element. <span style="color:#87f7ae">**Drugače ni komutativno!**</span>
 $$i(x)=x$$
@@ -188,3 +188,9 @@ $$f^{-1}\circ f=i(x)$$
 - [[Lastnosti Rel.&Op.#Asociativnost oz. zakon o združevanju|Asociativnost]]
 
 ***
+
+## Operacije med vektorji
+
+#### Seštevanje
+$$\vec{a} + \vec{b} = \vec{c}$$
+![[0040.png|200]]
