@@ -1,0 +1,11 @@
+{
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

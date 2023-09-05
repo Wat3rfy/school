@@ -1,0 +1,12 @@
+{
+  "accentColor": "#6bef9a",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Times New Roman,Bahnschrift",
+  "translucency": false,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "imageCenter",
+    "PDFExport"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "d2acde94e1dc5245",
+    "type": "split",
+    "children": [
+      {
+        "id": "437640a10622e723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3bead6b4da8d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Matematika/Krivulje II. reda.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "ea402ad6628451c4"
+          }
+        ]
+      },
+      {
+        "id": "cb2b39210a9d29bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86f4e3f50516f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Matematika/Krivulje II. reda.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "ea402ad6628451c4"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39efb75fc9710c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db739b160cffb7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905e078da9d9a4cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a3f8b907ac58705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "logaritmi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfad2d9c8b34c9ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "48a40d972a2ae05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea2b3f8e02cc23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7daf45ed40a5833",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Matematika/Krivulje II. reda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2850f20c6e7c3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Matematika/Krivulje II. reda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2104f2bc3efaa6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64b9d1dc1541e519",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Matematika/Krivulje II. reda.md"
+              }
+            }
+          },
+          {
+            "id": "5ebb649aed0b6347",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd3bead6b4da8d70",
+  "lastOpenFiles": [
+    "School/Matematika/Geometrija - Teorija.md",
+    "School/Matematika/Geometrija - Enačbe.md",
+    "School/Matematika/Kotne funkcije in vektorji.md",
+    "School/Matematika/Operacije.md",
+    "School/Matematika/Enačbe in neenačbe.md",
+    "School/Matematika/Krivulje II. reda.md",
+    "School/Matematika/Kartezični koordinatni sistem.md",
+    "School/Matematika/Funkcije.md",
+    "School/Matematika/Polinomi.md",
+    "0068.png",
+    "School/Matematika/Funckije.html",
+    "School/Matematika/Izjave.md",
+    "School/Matematika/Absolutna vrednost v enačbah in neenačbah.md",
+    "Funckije.pdf",
+    "School/Matematika/GraphRenders/0066 1.png",
+    "School/Matematika/~$linomi.docx",
+    "School/Matematika/Polinomi.docx",
+    "School/Matematika/GraphRenders/0067.png",
+    "School/Matematika/GraphRenders/0066.png",
+    "School/Matematika/GraphRenders/0065.png",
+    "School/Matematika/GraphRenders/0061.png",
+    "School/Matematika/GraphRenders/0063.png",
+    "School/Matematika/GraphRenders/0062.png",
+    "School/Matematika/GraphRenders/0060.png",
+    "School/Matematika/GraphRenders/0059.png",
+    "School/Matematika/Množice.md",
+    "School/Matematika/Največji skupni delitelj in najmanjši skupni večkratnik.md",
+    "0055.png.md",
+    "School/Matematika/Decimalni zapis racionalnega števila.md",
+    "School/Matematika/Potenciranje & Korenjenje.md",
+    "School/Matematika/Praštevila in sestavljena števila.md",
+    "School/Matematika/Razmerja in sorazmerja.md",
+    "School/Matematika/Številski sestavi.md",
+    "School/Matematika/Razširjanje izrazov.md",
+    "School/Matematika/plan.md",
+    "School/Matematika/Obravnava enačb in neenačb.md",
+    "School/Matematika/Odstotki.md",
+    "School/Matematika/Lastnosti Rel.&Op..md",
+    "School/Matematika/Osnovni pojmi.md",
+    "School/Matematika/workspace.json",
+    "School/Matematika/templates.json",
+    "School/Matematika/hotkeys.json",
+    "School/Matematika/graph.json",
+    "School/Matematika/core-plugins-migration.json",
+    "School/Matematika/core-plugins.json",
+    "Đuls.md"
+  ]
+}
